@@ -103,7 +103,6 @@ The project uses an object-oriented approach:
 
 📈 Example Output
 
-================================================================================
 DYNAMICS OF COUNTER-STRIKE 2 MENTIONS IN REDDIT (Last 30 days)
 ================================================================================
 Date         Steam           Reddit     Comment        
