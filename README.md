@@ -82,15 +82,15 @@ Parameters can be changed in the config.py file:
 
 📁 Project Structure
 
-game-popularity-tracker/
-├── data_sources/     # Data sources (Steam, Reddit)
-├── core/            # Core logic (processing, reports, visualization)
-├── models/          # Data models
-├── config.py        # Project settings
-├── main.py          # Entry point
-├── requirements.txt # Dependencies
-├── .env.example     # Template for API keys
-└── README.md        # Documentation
+    game-popularity-tracker/
+    ├── data_sources/     # Data sources (Steam, Reddit)
+    ├── core/            # Core logic (processing, reports, visualization)
+    ├── models/          # Data models
+    ├── config.py        # Project settings
+    ├── main.py          # Entry point
+    ├── requirements.txt # Dependencies
+    ├── .env.example     # Template for API keys
+    └── README.md        # Documentation
 
 🤝 Architecture 
 
