@@ -29,7 +29,7 @@ The project collects data from two platforms, combines them by date, and provide
 🛠️ Installation 
 
     Clone the repository: 
-    git clone https://github.com/yourusername/game-popularity-tracker.git
+    git clone https://github.com/r-nosikov-dev/game-popularity-tracker.git
     cd game-popularity-tracker
 
     Install dependencies:
@@ -96,10 +96,10 @@ Parameters can be changed in the config.py file:
 
 The project uses an object-oriented approach: 
 
-    Polymorphism: Unified interface for all data sources
-    Inheritance: Specific sources inherit from the base class
-    Modularity: Clear separation of responsibilities between components
-    Extensibility: Easy to add new data sources
+Polymorphism: Unified interface for all data sources
+Inheritance: Specific sources inherit from the base class
+Modularity: Clear separation of responsibilities between components
+Extensibility: Easy to add new data sources
 
      
     
