@@ -101,23 +101,5 @@ The project uses an object-oriented approach:
     Modularity: Clear separation of responsibilities between components
     Extensibility: Easy to add new data sources
 
-📈 Example Output
-
-DYNAMICS OF COUNTER-STRIKE 2 MENTIONS IN REDDIT (Last 30 days)
-================================================================================
-Date         Steam           Reddit     Comment        
---------------------------------------------------------------------------------
-2025-07-15   100,000,000     14         High activity  
-2025-07-16   100,000,000     15         High activity  
-2025-07-17   100,000,000     6                           
-2025-07-30   100,000,000     18         Maximum        
---------------------------------------------------------------------------------
-Statistics:
-   Average: 6.9 mentions/day
-   Maximum: 18 mentions
-   Total mentions: 208
-================================================================================
-
-
      
     
